@@ -1,0 +1,29 @@
+{
+  "field_area_ha": 3.02,
+  "elevation_range_m": [
+    148.27,
+    155.73
+  ],
+  "mean_slope_deg": 2.77,
+  "max_slope_deg": 10.42,
+  "dominant_aspect_deg": 236.0,
+  "erosion_risk_pct": {
+    "low": 73.8,
+    "moderate": 21.7,
+    "high": 4.4,
+    "severe": 0.0
+  },
+  "drainage_risk_pct": {
+    "well_drained": 33.0,
+    "moderate": 33.0,
+    "poorly_drained": 24.0,
+    "waterlogging_risk": 10.0
+  },
+  "crop_canopy": {
+    "mean_height_m": 0.20131896683342518,
+    "std_height_m": 0.20638715670616337,
+    "max_height_m": 1.4300154283881739,
+    "min_height_m": 0.0,
+    "low_vigor_area_pct": 0.0
+  }
+}
